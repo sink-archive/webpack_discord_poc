@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"esbuild": "^0.14.23"
+	},
+	"dependencies": {
+		"simian": "^1.4.3"
+	}
+}
